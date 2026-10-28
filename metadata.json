@@ -1,0 +1,6 @@
+{
+  "name": "GA Cloth - Pakistan Premier Fashion & Digital Fabrics",
+  "description": "Pakistan's premium physical and digital apparel store featuring lawn, pret, luxury formals, digital sewing patterns, COD, JazzCash/Easypaisa, TCS tracking, and AI styling with high thinking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
